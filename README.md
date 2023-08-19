@@ -7,5 +7,5 @@
   <img height='50px'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 </div>
 <div>
-  <img href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wOL-Lucas&theme=dracula" height='180em'></img>
+  <img href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wOL-Lucas&theme=dracula" height='180em' width='180em'></img>
 </div>
