@@ -8,6 +8,6 @@
   <br>
   <hr>
   <div>
-      <img height='180em' width="250em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=wOL-Lucas&hide=html&theme=dracula">
+      <img height='250em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wOL-Lucas&hide=html&theme=dracula">
     </div>
   </div>
