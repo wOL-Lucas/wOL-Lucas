@@ -6,3 +6,6 @@
   <img height='50px'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
   <img height='50px'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 </div>
+<div>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wOL-Lucas&theme=tokyonight)
+</div>
