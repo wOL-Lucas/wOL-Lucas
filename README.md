@@ -1,13 +1,19 @@
-
 <div>
-  <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
-  <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img height='50px'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
-  <img height='50px'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+  <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" alt="python" />
+  <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="js" />
+  <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-line-wordmark.svg" alt="node" />
+  <img height='50px'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql"/>
+  <img height='50px'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="docker"/>
+  <img height='50px'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp"/>
+  <img height='50px'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet"/>
   <br>
   <hr>
-  <div>
-      <img height='250em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wOL-Lucas&hide=html,css&theme=dracula">
+  <div align="center">
+    <div>
+      <img src="https://streak-stats.demolab.com/?user=wol-lucas&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=25" height="150" alt="streak graph"  />
     </div>
+    <div>
+        <img height='250em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wOL-Lucas&hide=html,css&theme=tokyonight">
+     </div>
+  </div>
   </div>
