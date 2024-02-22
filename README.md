@@ -8,6 +8,8 @@
     <img height='50px'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp"/>
     <img height='50px'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" alt="dotnet"/>
     <img height='50px'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" alt="java"/>
+    <img height='50px'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="sqlserver"/>
+          
   </div>
   <br>
   <hr>
