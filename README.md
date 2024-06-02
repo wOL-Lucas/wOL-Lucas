@@ -18,7 +18,11 @@
       <img src="https://streak-stats.demolab.com/?user=wol-lucas&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=25" height="150" alt="streak graph"  />
     </div>
     <div>
-        <img height='250em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wOL-Lucas&hide=html,css,lua&theme=tokyonight">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wol-lucas&theme=tokyonight">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wol-lucas&theme=tokyonight">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wol-lucas&theme=tokyonight">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wol-lucas&theme=tokyonight">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wol-lucas&theme=tokyonight">
      </div>
   </div>
   </div>
