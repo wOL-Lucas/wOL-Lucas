@@ -18,7 +18,7 @@
       <img src="https://streak-stats.demolab.com/?user=wol-lucas&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=25" height="150" alt="streak graph"  />
     </div>
     <div>
-        <img height='250em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wOL-Lucas&hide=html,css&theme=tokyonight">
+        <img height='250em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wOL-Lucas&hide=html,css,lua&theme=tokyonight">
      </div>
   </div>
   </div>
