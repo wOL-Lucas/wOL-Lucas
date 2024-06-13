@@ -24,7 +24,7 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wol-lucas&theme=tokyonight">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wol-lucas&theme=tokyonight">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wol-lucas&theme=tokyonight">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wol-lucas&theme=tokyonight">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wol-lucas&theme=tokyonight&utcOffset=-3">
      </div>
   </div>
   </div>
